@@ -6,5 +6,5 @@ version '0.1.0'
 
 # depends 'carlcomsys_build_cookbook'
 depends 'delivery-truck'
-depends 'delivery-sugar'
-depends 'delivery-base'
+# depends 'delivery-sugar'
+# depends 'delivery-base'

@@ -2,9 +2,10 @@ source 'https://supermarket.chef.io'
 
 metadata
 
+cookbook 'delivery-truck'
 group :delivery do
   cookbook 'test', path: './test/fixtures/cookbooks/test'
-  cookbook 'delivery-base'
-  cookbook 'delivery-sugar'
-  cookbook 'delivery_build'
+  # cookbook 'delivery-base'
+  # cookbook 'delivery-sugar'
+  # cookbook 'delivery_build'
 end
