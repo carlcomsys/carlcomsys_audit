@@ -8,7 +8,6 @@
 # The first source should always be the AIG Supermarket server
 #
 
-source 'https://plgsaschefsm01.r1-core.r1.aig.net/'
 source 'https://supermarket.chef.io'
 
 metadata

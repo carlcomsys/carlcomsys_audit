@@ -1,6 +1,6 @@
 name 'carlcomsys_audit'
-maintainer 'Aig Cloud Team'
-maintainer_email 'aigcloudautomations@aig.com'
+maintainer 'Obinna Okpokwasili'
+maintainer_email 'obicarl@yahoo.com'
 license 'all_rights'
 description 'Installs/Configures carlcomsys_audit'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))

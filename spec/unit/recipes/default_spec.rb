@@ -2,10 +2,10 @@
 # Cookbook:: carlcomsys_audit
 # Spec:: default_spec
 #
-# maintainer:: Aig Cloud Team
-# maintainer_email:: aigcloudautomations@aig.com
+# maintainer:: Obinna Okpokwasili
+# maintainer_email:: obicarl@yahoo.com
 #
-# Copyright:: 2017, Aig Cloud Team, All Rights Reserved.
+# Copyright:: 2017, Obinna Okpokwasili, All Rights Reserved.
 
 require 'spec_helper'
 
