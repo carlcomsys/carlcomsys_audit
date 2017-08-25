@@ -1,7 +1,10 @@
 name 'build_cookbook'
-maintainer 'Aig Cloud Team'
-maintainer_email 'aigcloudautomations@aig.com'
+maintainer 'Obinna Okpokwasili'
+maintainer_email 'obicarl@yahoo.com'
 license 'all_rights'
 version '0.1.0'
 
-depends 'aig_build_cookbook'
+# depends 'carlcomsys_build_cookbook'
+depends 'delivery-truck'
+depends 'delivery-sugar'
+depends 'delivery-base'

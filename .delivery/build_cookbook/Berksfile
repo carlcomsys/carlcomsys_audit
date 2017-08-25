@@ -1,7 +1,10 @@
-source 'https://plgsaschefsm01.r1-core.r1.aig.net/'
+source 'https://supermarket.chef.io'
 
 metadata
 
 group :delivery do
   cookbook 'test', path: './test/fixtures/cookbooks/test'
+  cookbook 'delivery-base', git: 'https://github.com/chef-cookbooks/delivery-base'
+  cookbook 'delivery-sugar', git: 'https://github.com/chef-cookbooks/delivery-sugar'
+  cookbook 'delivery_build', git: 'https://github.com/chef-cookbooks/delivery_build'
 end
