@@ -27,7 +27,7 @@ TODO: Enter the cookbook description here.
     - [Rakefile and Tasks](#rakefile-and-tasks)
     - [Chefspec and Test-Kitchen](#chefspec-and-test-kitchen)
     - [Compliance Profile](#compliance-profile)
-  - [Copyright:: 2017, Aig Cloud Team, All Rights Reserved.](#copyright-2017-aig-cloud-team-all-rights-reserved)
+  - [Copyright:: 2017, Obinna Okpokwasili, All Rights Reserved.](#copyright-2017-engineering-team-all-rights-reserved)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -35,7 +35,7 @@ TODO: Enter the cookbook description here.
 
 ### Platforms
 
-TODO: List all supported Platforms and versions. 
+TODO: List all supported Platforms and versions.
 
 ### Chef
 
@@ -73,7 +73,7 @@ _NOTE:_ use the --no-ssl-verify switch if the CHEF server in question has a self
 `berks upload --no-ssl-verify`
 
 ## Upload to Chef Supermarket
-_NOTE:_ You must set the following key `knife[:supermarket_site] = 'https://plgsaschefsm01.r1-core.r1.aig.net'`.
+_NOTE:_ You must set the following key `knife[:supermarket_site] = 'https://supermarket.chef.io'`.
 
 This cookbook should be uploaded to the CHEF Supermarket server.  When importing, leverage Berkshelf vendor command:
 
@@ -176,4 +176,4 @@ This repo includes a **Rakefile** for common tasks
 Included in this cookbook is a set of Inspec profile tests used for supported platforms in Test-Kitchen.  These profiles can also be loaded into Chef Compliance to ensure on-going validation.  The Control files are located at `test/smoke/suite_name`
 
 
-## Copyright:: 2017, Aig Cloud Team, All Rights Reserved.
+## Copyright:: 2017, Obinna Okpokwasili, All Rights Reserved.

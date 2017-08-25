@@ -5,4 +5,4 @@
 # maintainer:: Obinna Okpokwasili
 # maintainer_email:: obicarl@yahoo.com
 #
-# Copyright:: 2017, Aig Cloud Team, All Rights Reserved.
+# Copyright:: 2017, Obinna Okpokwasili, All Rights Reserved.
